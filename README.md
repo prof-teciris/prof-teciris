@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá pessoal👋
+Meu nome é Iris Pereira de Oliveira
+Estou estudando na Alura
 
 <!--
 **prof-teciris/prof-teciris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
